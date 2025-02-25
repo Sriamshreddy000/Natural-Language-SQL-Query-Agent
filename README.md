@@ -12,6 +12,7 @@ streamlit==1.27.0
 streamlit_chat==0.1.1
 streamlit_extras==0.3.4
 
+
 Evaluation metrics:
 Evaluating the performance of Text-to-SQL systems is a critical aspect of understanding their effectiveness and practical applicability.It helps identify the accuracy/performance of the system  in converting diverse natural language queries into semantically correct SQL expressions.The evaluation of a generated query by a Text-to-SQL system commonly entails comparing it to a ground truth query, often referred to as gold SQL.Evaluation metrics can be classified into three types --string matching, execution matching and manual evaluation.
 
