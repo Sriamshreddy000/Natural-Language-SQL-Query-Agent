@@ -1,6 +1,8 @@
 # Natural-Language-SQL-Query-Agent
 
+
 Requirements:
+
 langchain==0.0.311
 
 openai==0.27.10
